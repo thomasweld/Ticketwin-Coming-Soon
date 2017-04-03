@@ -1,4 +1,4 @@
-![alt text](https://github.com/thomasweld/Ticketwin-Coming-Soon/blob/master/ticketwinHalfBumper.jpg "Logo")
+<img src="https://github.com/thomasweld/Ticketwin-Coming-Soon/blob/master/ticketwinHalfBumper.jpg">
 
 ## Please sign up for updates on our brand new app coming soon! 
 
