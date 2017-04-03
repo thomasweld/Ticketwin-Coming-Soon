@@ -19,4 +19,6 @@
 
 
 ### Follow us on [Twitter](https://twitter.com/ticket_win) and [Instagram](https://www.instagram.com/ticketwin/)
-[Image](/ticketwinHalfBumper.jpg)
+
+![alt text](https://github.com/thomasweld/Ticketwin-Coming-Soon/blob/master/ticketwinHalfBumper.jpg "Logo")
+
