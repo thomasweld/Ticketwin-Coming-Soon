@@ -1,11 +1,9 @@
-## We're under construction. Please sign up for updates on our brand new app coming soon!
+## Thank you for your interest in Ticketwin. Please sign up for updates on our brand new app coming soon! 
 
 
 <!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css">
-<style type="text/css">
 
-</style>
 <div id="mc_embed_signup">
 <form action="//ticketwin.us15.list-manage.com/subscribe/post?u=9b7a64b673c97182fc8654d37&amp;id=6ac842c6cd" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
@@ -19,3 +17,6 @@
 </div>
 
 <!--End mc_embed_signup-->
+
+
+### Follow us on [Twitter](https://twitter.com/ticket_win) and [Instagram](https://www.instagram.com/ticketwin/)
