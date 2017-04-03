@@ -1,4 +1,6 @@
-## Thank you for your interest in Ticketwin. Please sign up for updates on our brand new app coming soon! 
+![alt text](https://github.com/thomasweld/Ticketwin-Coming-Soon/blob/master/ticketwinHalfBumper.jpg "Logo")
+
+## Please sign up for updates on our brand new app coming soon! 
 
 <!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css">
@@ -20,5 +22,4 @@
 
 ### Follow us on [Twitter](https://twitter.com/ticket_win) and [Instagram](https://www.instagram.com/ticketwin/)
 
-![alt text](https://github.com/thomasweld/Ticketwin-Coming-Soon/blob/master/ticketwinHalfBumper.jpg "Logo")
 
